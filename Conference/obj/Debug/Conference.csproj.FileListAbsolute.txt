@@ -1,0 +1,433 @@
+D:\ПБ-31\Conference\bin\Debug\Conference.exe.config
+D:\ПБ-31\Conference\bin\Debug\Conference.exe
+D:\ПБ-31\Conference\bin\Debug\Conference.pdb
+D:\ПБ-31\Conference\obj\Debug\Conference.csproj.AssemblyReference.cache
+D:\ПБ-31\Conference\obj\Debug\Conference.csproj.SuggestedBindingRedirects.cache
+D:\ПБ-31\Conference\obj\Debug\Autorization.g.cs
+D:\ПБ-31\Conference\obj\Debug\MainWindow.g.cs
+D:\ПБ-31\Conference\obj\Debug\App.g.cs
+D:\ПБ-31\Conference\obj\Debug\Conference_MarkupCompile.cache
+D:\ПБ-31\Conference\obj\Debug\Conference_MarkupCompile.lref
+D:\ПБ-31\Conference\obj\Debug\Autorization.baml
+D:\ПБ-31\Conference\obj\Debug\MainWindow.baml
+D:\ПБ-31\Conference\obj\Debug\Conference.g.resources
+D:\ПБ-31\Conference\obj\Debug\Conference.Properties.Resources.resources
+D:\ПБ-31\Conference\obj\Debug\Conference.csproj.GenerateResource.cache
+D:\ПБ-31\Conference\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+D:\ПБ-31\Conference\obj\Debug\Conference.exe
+D:\ПБ-31\Conference\obj\Debug\Conference.pdb
+D:\ПБ-31\Conference\bin\Debug\EasyCaptcha.Wpf.dll
+D:\ПБ-31\Conference\bin\Debug\EasyCaptcha.Wpf.pdb
+D:\ПБ-31\Conference\obj\Debug\Captcha.g.cs
+D:\ПБ-31\Conference\obj\Debug\Captcha.baml
+D:\ПБ-31\Conference\obj\Debug\Conference.csproj.CopyComplete
+D:\ПБ-31\Conference\obj\Debug\Organizator.g.cs
+D:\ПБ-31\Conference\obj\Debug\ShuriAndModerRegistration.g.cs
+D:\ПБ-31\Conference\obj\Debug\Organizator.baml
+D:\ПБ-31\Conference\obj\Debug\ShuriAndModerRegistration.baml
+D:\ПБ-31\Conference\bin\Debug\EntityFramework.dll
+D:\ПБ-31\Conference\bin\Debug\EntityFramework.SqlServer.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ПБ-31\Conference\bin\Debug\System.Buffers.dll
+D:\ПБ-31\Conference\bin\Debug\System.Collections.Immutable.dll
+D:\ПБ-31\Conference\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ПБ-31\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ПБ-31\Conference\bin\Debug\System.Memory.dll
+D:\ПБ-31\Conference\bin\Debug\System.Numerics.Vectors.dll
+D:\ПБ-31\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ПБ-31\Conference\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ПБ-31\Conference\bin\Debug\EntityFramework.xml
+D:\ПБ-31\Conference\bin\Debug\EntityFramework.SqlServer.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ПБ-31\Conference\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ПБ-31\Conference\bin\Debug\System.Buffers.xml
+D:\ПБ-31\Conference\bin\Debug\System.Collections.Immutable.xml
+D:\ПБ-31\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ПБ-31\Conference\bin\Debug\System.Memory.xml
+D:\ПБ-31\Conference\bin\Debug\System.Numerics.Vectors.xml
+D:\ПБ-31\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ПБ-31\Conference\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ПБ-31\Conference\obj\Debug\ModeratorWindow.g.cs
+D:\ПБ-31\Conference\obj\Debug\ParticipantWindow.g.cs
+D:\ПБ-31\Conference\obj\Debug\ShuriWindow.g.cs
+D:\ПБ-31\Conference\obj\Debug\ModeratorWindow.baml
+D:\ПБ-31\Conference\obj\Debug\ParticipantWindow.baml
+D:\ПБ-31\Conference\obj\Debug\ShuriWindow.baml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Conference.exe.config
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Conference.exe
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Conference.pdb
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\практика\Conference\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Autorization.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Captcha.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ModeratorWindow.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Organizator.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ParticipantWindow.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ShuriWindow.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference_MarkupCompile.cache
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference_MarkupCompile.lref
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Autorization.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Captcha.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ModeratorWindow.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Organizator.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ParticipantWindow.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ShuriWindow.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.g.resources
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.csproj.CopyComplete
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.exe
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\Conference.pdb
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\EventRegistration.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ParticipantRegistration.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\EventRegistration.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ParticipantRegistration.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ModerRegistration.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ShuriRegistration.g.cs
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ModerRegistration.baml
+C:\Users\HP\Desktop\практика\Conference\obj\Debug\ShuriRegistration.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Autorization.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Captcha.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\EventRegistration.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ModeratorWindow.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ModerRegistration.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Organizator.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ParticipantRegistration.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ParticipantWindow.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ShuriRegistration.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ShuriWindow.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\App.g.cs
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference_MarkupCompile.cache
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference_MarkupCompile.lref
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.exe
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.pdb
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Conference.exe.config
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Conference.exe
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Conference.pdb
+C:\Users\user\Desktop\практика\Conference\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\практика\Conference\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\user\Desktop\практика\Conference\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\практика\Conference\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Autorization.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Captcha.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\EventRegistration.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ModeratorWindow.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ModerRegistration.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Organizator.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ParticipantRegistration.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ParticipantWindow.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ShuriRegistration.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\ShuriWindow.baml
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.g.resources
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.csproj.GenerateResource.cache
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\практика\Conference\obj\Debug\Conference.csproj.CopyComplete
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Conference.exe.config
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Conference.exe
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Conference.pdb
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Autorization.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Captcha.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\EventRegistration.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ModeratorWindow.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ModerRegistration.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Organizator.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ParticipantRegistration.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ParticipantWindow.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ShuriRegistration.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ShuriWindow.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference_MarkupCompile.cache
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference_MarkupCompile.lref
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Autorization.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Captcha.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\EventRegistration.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ModeratorWindow.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ModerRegistration.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Organizator.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ParticipantRegistration.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ParticipantWindow.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ShuriRegistration.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\ShuriWindow.baml
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.g.resources
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.csproj.CopyComplete
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.exe
+C:\Users\user\Desktop\ПБ41 УП03м\практика\Conference\obj\Debug\Conference.pdb
+C:\Users\user\Desktop\Conference\bin\Debug\Conference.exe.config
+C:\Users\user\Desktop\Conference\bin\Debug\Conference.exe
+C:\Users\user\Desktop\Conference\bin\Debug\Conference.pdb
+C:\Users\user\Desktop\Conference\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\user\Desktop\Conference\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Conference\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Conference\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Conference\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\user\Desktop\Conference\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Conference\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Desktop\Conference\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Conference\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Conference\obj\Debug\Autorization.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\Captcha.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\EventRegistration.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\ModeratorWindow.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\ModerRegistration.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\Organizator.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\ParticipantRegistration.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\ParticipantWindow.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\ShuriRegistration.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\ShuriWindow.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Conference\obj\Debug\Conference_MarkupCompile.cache
+C:\Users\user\Desktop\Conference\obj\Debug\Conference_MarkupCompile.lref
+C:\Users\user\Desktop\Conference\obj\Debug\Autorization.baml
+C:\Users\user\Desktop\Conference\obj\Debug\Captcha.baml
+C:\Users\user\Desktop\Conference\obj\Debug\EventRegistration.baml
+C:\Users\user\Desktop\Conference\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Conference\obj\Debug\ModeratorWindow.baml
+C:\Users\user\Desktop\Conference\obj\Debug\ModerRegistration.baml
+C:\Users\user\Desktop\Conference\obj\Debug\Organizator.baml
+C:\Users\user\Desktop\Conference\obj\Debug\ParticipantRegistration.baml
+C:\Users\user\Desktop\Conference\obj\Debug\ParticipantWindow.baml
+C:\Users\user\Desktop\Conference\obj\Debug\ShuriRegistration.baml
+C:\Users\user\Desktop\Conference\obj\Debug\ShuriWindow.baml
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.g.resources
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.csproj.CopyComplete
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.exe
+C:\Users\user\Desktop\Conference\obj\Debug\Conference.pdb

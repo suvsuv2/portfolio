@@ -1,0 +1,46 @@
+﻿<Window x:Class="TaxiCompany.Order"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaxiCompany"
+        mc:Ignorable="d"
+        Title="Order" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Order" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="OrderList"  Height="NaN" Margin="0,53,0,107" Width="NaN"  >
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Border BorderThickness="1" BorderBrush="Black" Margin="5">
+                            <StackPanel>
+                                <Border >
+                                    <TextBlock Text="{Binding Path=Name}" />
+                                </Border>
+                                <Border>
+                                    <TextBlock Text="{Binding Path=Surname}" />
+                                </Border>
+                                <Border >
+                                    <TextBlock Text="{Binding Path=PhoneNumber}" />
+                                </Border>
+                                <Border >
+                                    <TextBlock Text="{Binding Path=Cars}" />
+                                </Border>
+                            </StackPanel>
+                        </Border>
+
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="10,359,0,0" VerticalAlignment="Top" Width="134"/>
+        <Button Content="Delete" HorizontalAlignment="Left"  x:Name="deleteButton" Margin="170,359,0,0" VerticalAlignment="Top" Width="134" />
+        <Button Content="Edit" HorizontalAlignment="Center"  x:Name="EditButton" Margin="0,359,0,0" VerticalAlignment="Top" Width="134" />
+    </Grid>
+</Window>

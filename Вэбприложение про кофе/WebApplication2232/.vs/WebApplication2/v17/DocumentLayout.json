@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\webapplication2232\\webapplication2\\home\\zxc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\zxc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\zxc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\zxc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\mainmaincon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\mainmaincon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\webapplication2\\home\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D7C572B-BA9B-40B3-A116-A6D41059914A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\home\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "info.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\info.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\info.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\info.cs",
+              "RelativeToolTip": "WebApplication2\\Home\\info.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:33:54.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Details.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\Details.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Details.aspx",
+              "RelativeToolTip": "WebApplication2\\Home\\Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-10T08:33:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Details.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\Details.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Details.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Home\\Details.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:33:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Home.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Home\\Home.aspx.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv5QAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:33:54.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Home.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\Home.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Home.aspx",
+              "RelativeToolTip": "WebApplication2\\Home\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-10T08:33:54.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zxc.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\zxc.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\zxc.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\zxc.aspx",
+              "RelativeToolTip": "WebApplication2\\Home\\zxc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-10T08:33:54.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zxc.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\zxc.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\zxc.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\zxc.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Home\\zxc.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:33:54.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Style.css",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\Style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\Style.css",
+              "RelativeToolTip": "WebApplication2\\Home\\Style.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-10T08:33:54.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMainCon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\MainMainCon.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Home\\MainMainCon.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043F\u043A\u0430\\WebApplication2232\\WebApplication2\\Home\\MainMainCon.cs",
+              "RelativeToolTip": "WebApplication2\\Home\\MainMainCon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:33:54.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

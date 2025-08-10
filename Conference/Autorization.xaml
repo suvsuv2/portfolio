@@ -1,0 +1,23 @@
+﻿<Window x:Class="Conference.Autorization"    
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"    
+        xmlns:local="clr-namespace:Conference" 
+        mc:Ignorable="d"
+      
+        Title="Autorization" Height="450" Width="800">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox HorizontalAlignment="Left" Margin="327,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="textBox_ID"/>
+        <TextBox HorizontalAlignment="Left" Margin="327,207,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="passwordBox"/>
+        <Label Content="Введите ваш ID" HorizontalAlignment="Left" Margin="340,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.541,-0.21" Width="104"/>
+        <Label Content="Введите ваш пароль" HorizontalAlignment="Left" Margin="327,166,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.541,-0.21" Width="130"/>
+        <Button Content="Войти в IT" Name="abno" Margin="357,252,366,132" Background="#FFA4D7FF" BorderBrush="#FF003EFF" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+ public int ID { get; set; } 
+private static int currentId = 0;
+ public info()
+ {
+
+     ID = ++currentId;
+ }

@@ -1,0 +1,34 @@
+﻿<Window x:Class="TaxiCompany.NewInput"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaxiCompany"
+        mc:Ignorable="d"
+        Title="NewInput" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="NameTextBox" Grid.Row="0" Margin="182,18,182,31"/>
+
+        <TextBox x:Name="SurnameTextBox" Grid.Row="1" Margin="182,18,182,38"/>
+
+        <TextBox x:Name="PhoneNumberTextBox" Grid.Row="2" Margin="182,18,182,42"/>
+
+        <TextBox x:Name="CarsTextBox" Grid.Row="3" Margin="182,30,182,30"/>
+
+        <Button x:Name="addNewTask" Click="CreateDataButton_Click" Content="Создать" Grid.Row="4"  Margin="311,44,311,10"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="99,22,0,0" VerticalAlignment="Top"/>
+        <Label Content="Phonenumber" HorizontalAlignment="Left" Margin="99,18,0,0" VerticalAlignment="Top" Grid.Row="2"/>
+        <Label Content="Surname" HorizontalAlignment="Left" Margin="99,18,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+       
+        <Label Content="Cars" HorizontalAlignment="Left" Margin="99,0,0,0" VerticalAlignment="Center" Grid.Row="3"/>
+    </Grid>
+</Window>

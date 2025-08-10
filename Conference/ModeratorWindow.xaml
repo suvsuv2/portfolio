@@ -1,0 +1,41 @@
+﻿<Window x:Class="Conference.ModeratorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conference"
+        mc:Ignorable="d"
+        Title="ModeratorWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="551" Width="926">
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="InputList" Height="NaN" Margin="10,10,10,242" Width="NaN" BorderBrush="#FFA4D7FF" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+
+                    <StackPanel>
+                        <TextBlock Text="{Binding Path=ActivityNumber}"/>
+                        <TextBlock Text="{Binding Path=ActivityName}"/>
+                        <TextBlock Text="{Binding Path=BeginDate}"/>
+                        <TextBlock Text="{Binding Path=Days}"/>
+                        <TextBlock Text="{Binding Path=ActivityEvent}"/>
+                        <TextBlock Text="{Binding Path=DayCount}"/>
+                        <TextBlock Text="{Binding Path=BeginTime}"/>
+                        <TextBlock Text="{Binding Path=Moderator}"/>
+                        <TextBlock Text="{Binding Path=Shuri1}"/>
+                        <TextBlock Text="{Binding Path=Shuri2}"/>
+                        <TextBlock Text="{Binding Path=Shuri3}"/>
+                        <TextBlock Text="{Binding Path=Shuri4}"/>
+                        <TextBlock Text="{Binding Path=Shuri5}"/>
+                        <TextBlock Text="{Binding Path=Winner}"/>
+
+                        <Image Source="{Binding Photo}" Width="50" Height="50"/>
+                    </StackPanel>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+</Window>

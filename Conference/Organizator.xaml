@@ -1,0 +1,29 @@
+﻿<Window x:Class="Conference.Organizator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conference"
+        mc:Ignorable="d"
+        Title="Organizator" Height="450" Width="800">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="800" Height="435">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="791"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Окно Организатора" HorizontalAlignment="Center" Margin="0,18,0,0" VerticalAlignment="Top" Height="45" Width="224" FontSize="22"  FontFamily="Comic Sans MS" FontWeight="Bold" />
+        <Border BorderBrush="#FF003EFF" BorderThickness="1" Margin="-19,0,-8,346" />
+        <Label Content="Ваш профиль:" HorizontalAlignment="Left" Margin="5,255,0,0" VerticalAlignment="Top" Height="30" Width="154" Name="Profile" FontWeight="Bold" FontSize="16" FontFamily="Comic Sans MS"  />
+        <Label Content="" HorizontalAlignment="Left" Margin="323,98,0,0" VerticalAlignment="Top" Height="32" Width="154" Name="LabelGoodMorning" LayoutUpdated="LabelGoodMorning_LayoutUpdated" />
+        <Label Content="" HorizontalAlignment="Left" Margin="268,130,0,0" VerticalAlignment="Top" Height="32" Width="264" Name="label_FIO" />
+        <Button Content="Мероприятия" HorizontalAlignment="Left" Margin="222,169,0,0" VerticalAlignment="Top" Height="71" Width="170" Background="#FFA4D7FF" BorderBrush="#FF003EFF" Click="Button_Click2"/>
+        <Button Content="Участиники" HorizontalAlignment="Left" Margin="222,255,0,0" VerticalAlignment="Top" Height="71" Width="170" Background="#FFA4D7FF" BorderBrush="#FF003EFF" Click="Button_Click3"/>
+        <Button Content="Жюри" HorizontalAlignment="Left" Margin="410,255,0,0" VerticalAlignment="Top" Height="71" Width="170" Background="#FFA4D7FF" BorderBrush="#FF003EFF" Click="Button_Click"/>
+        <Image HorizontalAlignment="Left" Height="122" Margin="33,107,0,0" VerticalAlignment="Top" Width="152" Name="image">
+
+        </Image>
+        <Button Content="Модераторы" HorizontalAlignment="Left" Margin="410,169,0,0" VerticalAlignment="Top" Height="71" Width="170" Background="#FFA4D7FF" BorderBrush="#FF003EFF" Click="Button_Click4"/>
+        <ListBox  Margin="5,290,574,5" Name="listBox" />
+
+    </Grid>
+</Window>
